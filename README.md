@@ -1,4 +1,10 @@
 # itmd362project2
+SELF CRITIQUE: 
+I think that i've learned quite a bit in this class over the past year ( two semesters) that i've taken this class. i'll admit that i forget sometimes about deadlines and sometimes made glaring code mistakes. through all of that i think this class not only taught me about good website and ui design, but also time managment. 
+I think that this website in particular is the culminaion of everything that i've gone through and learned in this class as a student. 
+i think this is one of the best websites i've had the opportunity to work on, and i' proud of my group. 
+
+
 
 # PROJECT TWO: REDESIGN THIS WEBSITE!
 
